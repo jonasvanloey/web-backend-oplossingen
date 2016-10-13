@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1dea2ff-f610-4db7-9617-54b346b08df4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-arrays-basis.php" afterPath="$PROJECT_DIR$/opdracht-arrays-basis.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-arrays-functions.php" afterPath="$PROJECT_DIR$/opdracht-arrays-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-comments.php" afterPath="$PROJECT_DIR$/opdracht-comments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if-else.php" afterPath="$PROJECT_DIR$/opdracht-conditional-statements-if-else.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if-elseif.php" afterPath="$PROJECT_DIR$/opdracht-conditional-statements-if-elseif.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if.php" afterPath="$PROJECT_DIR$/opdracht-conditional-statements-if.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-looping-statements-for.php" afterPath="$PROJECT_DIR$/opdracht-looping-statements-for.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-looping-statements-foreach.php" afterPath="$PROJECT_DIR$/opdracht-looping-statements-foreach.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-looping-statements-while.php" afterPath="$PROJECT_DIR$/opdracht-looping-statements-while.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-verbeter.php" afterPath="$PROJECT_DIR$/opdracht-verbeter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-functions.php" afterPath="$PROJECT_DIR$/opdracht-functions.php" />
     </list>
     <ignored path="oplossingen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,11 +33,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="opdracht-functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="opdracht-functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opdracht-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
-              <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+            <state relative-caret-position="205">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <folding>
+                <marker date="1476367223118" expanded="true" signature="620:1324" ph="..." />
+                <marker date="1476367223118" expanded="true" signature="631:1032" ph="..." />
+                <marker date="1476367223118" expanded="true" signature="1072:1324" ph="..." />
+                <marker date="1476367223118" expanded="true" signature="1112:1324" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="opdracht-functions-gevorderd.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/opdracht-functions-gevorderd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -93,6 +98,7 @@
         <option value="$PROJECT_DIR$/opdracht-verbeter.php" />
         <option value="$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-functions/opdracht-functions.html" />
         <option value="$PROJECT_DIR$/opdracht-functions.php" />
+        <option value="$PROJECT_DIR$/opdracht-functions-gevorderd.php" />
       </list>
     </option>
   </component>
@@ -106,7 +112,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="1040" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -213,18 +219,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476363389733</updated>
-      <workItem from="1476363392052" duration="3036000" />
+      <workItem from="1476363392052" duration="4860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3036000" />
+    <option name="totallyTimeSpent" value="4860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -357,8 +363,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/opdracht-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        <state relative-caret-position="205">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <marker date="1476367223118" expanded="true" signature="620:1324" ph="..." />
+            <marker date="1476367223118" expanded="true" signature="631:1032" ph="..." />
+            <marker date="1476367223118" expanded="true" signature="1072:1324" ph="..." />
+            <marker date="1476367223118" expanded="true" signature="1112:1324" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-functions-gevorderd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -39,9 +39,16 @@ function iseven($getal1)
 
     return $answ;
 }
+function text($string)
+{
+    $array = str_split($string);
+    $UpString = strtoupper($string);
 
+    $lengte = count($array);
+    $antwoord = $UpString .' en de lengte is : ' .(string)$lengte;
 
-
+    return $antwoord ;
+}
 
 
 ?>
@@ -63,6 +70,7 @@ function iseven($getal1)
             <?php echo berekenSom(10,2) ?>
             <?php echo vermenigvuldig(10,2) ?>
             <?php echo iseven(2) ?>
+            <?php echo text('gele aap')?>
 
         </section>
 
