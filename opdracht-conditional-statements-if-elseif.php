@@ -6,7 +6,7 @@
         <title>Opdracht if else if</title> 
         <?php 
         $getal = 54;
-        $uitkomst = " ";
+
         if ($getal<10)
         {
             $uitkomst = "kleiner dan 10";
@@ -60,13 +60,7 @@
         
         <section class="body">
         
-            <h1>Opdracht if else if: deel 1</h1>
-
-            <ul>
-                <li>Maak een getal met een waarde tussen 1-100</li>
-                <li>Zorg ervoor dat het script kan zeggen tussen welke tientallen het getal ligt, bv 'Het getal ligt tussen 20 en 30'.</li>
-                <li>Zorg er vervolgens voor dat de boodschap omgekeerd afgedrukt wordt, bv '03 ne 02 nessut tgil lateg teH'.</li>
-            </ul>  
+       <?php echo  $uitkomst ?>
         
         </section>
 

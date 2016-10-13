@@ -40,7 +40,7 @@ if ($getal == 7){
     <body class="web-backend-opdracht">
        
        
-       <?php echo $dag>
+       <?php echo $dag ?>
         
        
 

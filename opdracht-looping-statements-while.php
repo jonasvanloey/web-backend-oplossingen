@@ -8,7 +8,7 @@
 $i = 0;
 $getallen = array();
     
-    while(i<=100)
+    while($i<=100)
 {
         $getallen[]= $i ;
     ++$i;
@@ -17,7 +17,7 @@ $string = implode( ', ', $getallen );
     
     
     
-    	$i = 0;
+
 
 	$getallen2	=	array();
 
@@ -36,6 +36,9 @@ $string = implode( ', ', $getallen );
         
     </head>
     <body class="web-backend-opdracht">
-      
+      <?php echo $string ?>
+      <p></p>
+      <?php echo $string2 ?>
+
     </body>
 </html>

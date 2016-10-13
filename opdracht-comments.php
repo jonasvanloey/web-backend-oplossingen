@@ -12,14 +12,6 @@
     <body class="web-backend-opdracht">
         
         <section class="body">
-        
-			<h1>Opdracht comments: deel 1</h1>
-
-			<ul>
-				<li>Maak een pagina (incl. HTML5 doctype), met daarin een PHP-block (inline) dat er voor zorgt dat je voornaam & naam op het scherm tevoorschijn komen.</li>
-
-				<li>Maak een commentaar-block met je naam en e-mail</li>
-			</ul>
 			<p><?php echo "Jonas Van loey" ?></p>
 		</section>
 

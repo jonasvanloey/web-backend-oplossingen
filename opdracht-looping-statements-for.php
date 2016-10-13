@@ -23,9 +23,9 @@ $kolommen = 10;
     <body class="web-backend-opdracht">
       <table> 
          <?php  for($i=0;$i<$rijen;++$i): ?>
-                   
+
              <tr>
-             <?php for($j=0;$j<$kolommen;++$j): ?>
+             <?php for($j=0;$j<=$kolommen;++$j): ?>
             <td class="<?= ( ( $i * $j ) % 2 > 0 ) ? 'oneven' : '' ?>"><?= $i * $j ?></td>
               <?php endfor ?>     
             </tr>

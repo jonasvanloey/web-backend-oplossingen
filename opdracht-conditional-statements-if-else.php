@@ -5,23 +5,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <?php 
             $jaar = 2016;
-            $uitkomst =" ";
 
-        if ($jaar%4=0)
-        {
-            if ($jaar%100=0)
-            {
-                if ($jaar%400=0)
-                {
-                    $uitkomst = "dit is een schrikkeljaar";
-                }
-                else
-                {
-                    $uitkomst = "dit is geen schrikkeljaar";
-                    
-                }
-            }
+
+        if ($jaar%4==0 || $jaar%400==0 && $jaar%100 !==0) {
+
+            $uitkomst = "dit is een schrikkeljaar";
         }
+
         else
         {
             $uitkomst = "dit is geen schrikkeljaar";

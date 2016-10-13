@@ -25,7 +25,11 @@ $voertuigen = array('land' => array('auto','fiets','skateboard'),'wwater' => arr
 ?>
     </head>
     <body class="web-backend-opdracht">
-        
-       
+
+    <?php var_dump($dieren) ?>
+
+    <h1>deel2</h1>
+    <?php var_dump($dieren2) ?>
+
     </body>
 </html>
