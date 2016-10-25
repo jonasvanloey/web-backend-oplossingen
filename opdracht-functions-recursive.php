@@ -8,7 +8,7 @@
             $jaar = 1;
             for ($jaar;$jaar<=10;++$jaar){
                 $nieuwbedrag = $bedrag *pow(1.08,$jaar);
-                echo 'na '.$jaar.' heeft Hans '.$nieuwbedrag.'euro <br>';
+                echo 'na '.$jaar.' jaar heeft Hans '.$nieuwbedrag.'euro <br>';
             }
         }
         ?>
