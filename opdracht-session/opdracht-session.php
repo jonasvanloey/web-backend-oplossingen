@@ -1,10 +1,16 @@
 <?php
 session_start();
-if (isset($_POST['submit']))
+if (isset($_POST['username']))
 {
 
 
 }
+var_dump( $_SESSION);
+$username = (isset( $_SESSION['registratie']['deel1']['username']));//? $_SESSION[ 'registratie' ][ 'deel1' ][ 'username'] : '';
+
+//? $_SESSION[ 'registrationData' ][ 'deel1' ][ 'email'] : '';  ???
+
+$mail =(isset( $_SESSION['registratie']['deel1']['mail']));//? $_SESSION[ 'registratie' ][ 'deel1' ][ 'mail'] : '';
 ?>
 
 
@@ -19,13 +25,16 @@ if (isset($_POST['submit']))
 </head>
 <body>
 
-<form action="opdracht-sessions-pagina-02-adres.php" method="post">
+<form action="opdracht-sessions-pagina-02-adres.php" method="POST">
     <p>username</p>
-    <input type="text" name="username">
-    <p>password</p>
-    <input type="password" name="password">
-    <input type="submit" name="submit" value="send">
-    <p><?=  $_POST['username'] ?></p>
+    <input type="text" name="username" value="<?= $username ?>">
+    <p>mail</p>
+    <input type="text" name="mail" value="<?= $mail ?>">
+
+    <!--  ( isset( $_GET['focus'] ) && $_GET['focus'] == "nickname" ) ? 'autofocus' : '' enkel om focus op textvak te zetten?? -->
+
+    <input type="submit" name="submit">
+
 
 </form>
 </body>
