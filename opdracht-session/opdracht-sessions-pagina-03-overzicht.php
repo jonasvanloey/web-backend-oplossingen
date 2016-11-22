@@ -2,19 +2,22 @@
 session_start();
 
 var_dump( $_POST );
+var_dump( '<br>' );
 var_dump( $_SESSION );
 
 if (isset($_POST['submit']))
 {
-    $_SESSION['registratie']['deel1']['mail']     =   $_POST[ 'mail' ];
-    $_SESSION['registratie']['deel1']['username']    =   $_POST[ 'username' ];
+
     $_SESSION['registratie']['deel2']['straat']     =   $_POST[ 'straat' ];
     $_SESSION['registratie']['deel2']['nummer']    =   $_POST[ 'nummer' ];
     $_SESSION['registratie']['deel2']['gemeente']     =   $_POST[ 'gemeente' ];
     $_SESSION['registratie']['deel2']['postcode']    =   $_POST[ 'postcode' ];
 }
 
+
+
 $data['registratie']['deel1']= $_SESSION['registratie']['deel1'];
+$data['registratie']['deel2']= $_SESSION['registratie']['deel2'];
 
 ?>
 <!doctype html>
@@ -30,9 +33,9 @@ $data['registratie']['deel1']= $_SESSION['registratie']['deel1'];
 
 <h1>overzicht</h1>
 <ul>
-    <?php foreach ( $data['registratie']['deel1'] as $info => $value ):?>
+    <?php foreach ( $data['registratie']['deel1'] as $key => $value ):?>
     <li>
-        <?= $info ?>: <?= $value ?>
+        <?= $key ?>: <?= $value ?>
     </li>
     <?php endforeach ?>
 
