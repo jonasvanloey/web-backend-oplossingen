@@ -2,35 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1dea2ff-f610-4db7-9617-54b346b08df4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/html/76096-004-6F222959.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-begin/application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-begin/classes/percent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-extend/application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-extend/classes/animal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-extend/classes/lion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-extend/classes/zebra.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-cookies/opdracht-cookies-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-cookies/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-include/view/bodys-partial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-motivatie/motivatie.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-arrays-basis.php" afterPath="$PROJECT_DIR$/opdracht-arrays-basis/opdracht-arrays-basis.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-arrays-functions.php" afterPath="$PROJECT_DIR$/opdracht-arrays-functions/opdracht-arrays-functions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-comments.php" afterPath="$PROJECT_DIR$/opdracht-comments/opdracht-comments.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if-elseif.php" afterPath="$PROJECT_DIR$/opdracht-conditional-statements-if-elseif/opdracht-conditional-statements-if-elseif.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-conditional-statements-if.php" afterPath="$PROJECT_DIR$/opdracht-conditional-statements-if/opdracht-conditional-statements-if.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-functions-gevorderd.php" afterPath="$PROJECT_DIR$/opdracht-functions-gevorderd/opdracht-functions-gevorderd.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-functions-recursive.php" afterPath="$PROJECT_DIR$/opdracht-functions-recursive/opdracht-functions-recursive.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-functions.php" afterPath="$PROJECT_DIR$/opdracht-functions/opdracht-functions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-include/body-partial.html" afterPath="$PROJECT_DIR$/opdracht-include/view/body-partial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-include/footer-partial.html" afterPath="$PROJECT_DIR$/opdracht-include/view/footer-partial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-include/header-partial.html" afterPath="$PROJECT_DIR$/opdracht-include/view/header-partial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-looping-statements-for.php" afterPath="$PROJECT_DIR$/opdracht-looping-statements-for/opdracht-looping-statements-for.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/opdracht-looping-statements-foreach.php" afterPath="$PROJECT_DIR$/opdracht-looping-statements-foreach/opdracht-looping-statements-foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/classes/HTMLBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/hjh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/html/body-partial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/html/footer-partial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/html/header-partial.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/js/script.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opdracht-classes-portfolio/html/hjh.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-include/index.php" afterPath="$PROJECT_DIR$/opdracht-include/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-session/opdracht-sessions-pagina-03-overzicht.php" afterPath="$PROJECT_DIR$/opdracht-session/opdracht-sessions-pagina-03-overzicht.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css" afterPath="$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css" />
     </list>
     <ignored path="oplossingen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,40 +33,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="hjh.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/hjh.html">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/hjh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="motivatie.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/opdracht-motivatie/motivatie.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="544">
-                <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="76096-004-6F222959.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/76096-004-6F222959.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="body-partial.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/body-partial.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-partial.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/footer-partial.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-partial.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/header-partial.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLBuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/classes/HTMLBuilder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTMLbuilder-class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-classes-portfolio/oplossing-classes-portfolio/classes/HTMLbuilder-class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1059">
+              <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-classes-portfolio/oplossing-classes-portfolio/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="124" column="1" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+            <state relative-caret-position="884">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,6 +141,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -144,9 +188,16 @@
         <option value="$PROJECT_DIR$/opdracht-classes-extend/application.php" />
         <option value="$PROJECT_DIR$/opdracht-motivatie/motivatie.html" />
         <option value="$PROJECT_DIR$/opdracht-motivatie/motivatie.md" />
-        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/hjh.html" />
-        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css" />
         <option value="$PROJECT_DIR$/opdracht-classes-portfolio/html/hjh.html" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/classes/script.js" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/js/script.js" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/html/header-partial.php" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/html/footer-partial.php" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/html/body-partial.php" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/hjh.html" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/classes/HTMLBuilder.php" />
+        <option value="$PROJECT_DIR$/opdracht-classes-portfolio/index.php" />
       </list>
     </option>
   </component>
@@ -158,10 +209,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,7 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,6 +281,70 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="opdracht-include" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opdracht-include" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opdracht-classes-portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opdracht-classes-portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="opdracht-classes-portfolio" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -252,10 +366,32 @@
               <option name="myItemId" value="opdracht-classes-portfolio" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oplossingen" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opdracht-classes-portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,14 +399,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-classes-portfolio\classes" />
+      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-classes-portfolio\js" />
+      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-classes-portfolio" />
       <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-classes-portfolio\html" />
       <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-classes-portfolio\images" />
-      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-looping-statements-foreach" />
-      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-looping-statements-for" />
-      <recent name="C:\Users\jonas\Documents\School\2de-jaar\web-backend\oplossingen\opdracht-functions-recursive" />
     </key>
   </component>
   <component name="RunManager">
@@ -346,18 +485,21 @@
       <workItem from="1477911507084" duration="78000" />
       <workItem from="1479645496669" duration="4104000" />
       <workItem from="1479736106034" duration="6653000" />
-      <workItem from="1479805598877" duration="5444000" />
+      <workItem from="1479805598877" duration="6651000" />
+      <workItem from="1479819738198" duration="1624000" />
+      <workItem from="1479823486429" duration="597000" />
+      <workItem from="1479887088505" duration="3361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54574000" />
+    <option name="totallyTimeSpent" value="61363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35386223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -413,61 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/opdracht-functions/opdracht-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-functions-gevorderd/opdracht-functions-gevorderd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-functions-recursive/opdracht-functions-recursive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-verbeter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-functions/opdracht-functions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-conditional-statements-if-else.php" />
-    <entry file="file://$PROJECT_DIR$/opdracht-verbeter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-functions/opdracht-functions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opdracht-looping-statements-while.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -480,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -488,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -496,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -504,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,13 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-include/view/header-partial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opdracht-arrays-basis/opdracht-arrays-basis.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -606,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,29 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-include/view/body-partial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-include/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-include/view/bodys-partial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-classes-begin/oplossing-classes-begin/application.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -665,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,47 +780,137 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-motivatie/motivatie.html" />
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/76096-004-6F222959.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-motivatie/motivatie.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-include/view/body-partial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-motivatie/motivatie.html">
+    <entry file="file://$PROJECT_DIR$/opdracht-include/view/bodys-partial.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-include/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-include/view/header-partial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/CSS/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="124" column="1" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+        <state relative-caret-position="884">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/76096-004-6F222959.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/hjh.html">
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/footer-partial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opdracht-motivatie/motivatie.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="544">
-            <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/body-partial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-classes-portfolio/oplossing-classes-portfolio/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/classes/HTMLBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cursus/public/cursus/opdrachten/opdracht-classes-portfolio/oplossing-classes-portfolio/classes/HTMLbuilder-class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/hjh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/html/header-partial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opdracht-classes-portfolio/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
