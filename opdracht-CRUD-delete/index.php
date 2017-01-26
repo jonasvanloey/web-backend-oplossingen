@@ -18,9 +18,10 @@ try
    {
        $info[] = $row;
    }
+
    if (isset($_POST['delete'])) {
 
-       $deletestring = 'DELETE * from brouwers WHERE brouwernr = :brouwernr';
+       $deletestring = 'DELETE from brouwers WHERE brouwernr = :brouwernr';
        $delete = $db->prepare($deletestring);
 
        $delete->bindValue(':brouwernr', $_POST['delete']);
@@ -30,10 +31,13 @@ try
            $message['type'] = 'succes';
            $message['text'] = 'verwijdert';
 
-       } else {
+       }
+       else {
            $message['type'] = 'error';
            $message['text'] = 'er is iets fout.';
+           var_dump($_POST['delete']);
        }
+
    }
 }
 catch(PDOException $e)
@@ -72,7 +76,7 @@ catch(PDOException $e)
     <?php foreach ($info as $l): ?>
         <td><?= $l ?></td>
     <?php endforeach ?>
-        <td><button type="submit" name="delete" value="<?php $info['brouwernr'] ?>"><img src="images/icon-delete.png" alt="delete"></button></td>
+        <td><button type="submit" name="delete" value="<?= $info['brouwernr'] ?>"><img src="images/icon-delete.png" alt="delete"></button></td>
     </tr>
     <?php endforeach ?>
 

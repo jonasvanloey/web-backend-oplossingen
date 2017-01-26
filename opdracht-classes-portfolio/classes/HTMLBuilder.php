@@ -1,5 +1,5 @@
 <?php
-class HTMLbuilder{
+class HTMLBuilder{
     protected $header;
     protected $body;
     protected $footer;
@@ -9,6 +9,8 @@ class HTMLbuilder{
         $this->header=$header;
         $this->body=$body;
         $this->footer=$footer;
+
+
     }
 
     public function buildHeader(){

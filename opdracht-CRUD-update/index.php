@@ -20,7 +20,7 @@ try
     }
     if (isset($_POST['delete'])) {
 
-        $deletestring = 'DELETE * from brouwers WHERE brouwernr = :brouwernr';
+        $deletestring = 'DELETE from brouwers WHERE brouwernr = :brouwernr';
         $delete = $db->prepare($deletestring);
 
         $delete->bindValue(':brouwernr', $_POST['delete']);
@@ -29,6 +29,7 @@ try
         if ($isdeleted) {
             $message['type'] = 'succes';
             $message['text'] = 'verwijdert';
+            var_dump($_POST['delete']);
 
         } else {
             $message['type'] = 'error';
@@ -72,11 +73,11 @@ catch(PDOException $e)
 </head>
 <body>
 <h1>gfjlvdfj</h1>
-
+<?php if ($pushededit): ?>
     <?php foreach ($brgegevens as $brg): ?>
         <h1>Brouwer <?= $brg['brnaam'] ?> wijzigen</h1>
     <?php endforeach?>
-
+<?php endif; ?>
 <p><?= $message['text'] ?></p>
 <form action="<?= $_SERVER['PHP_SELF'] ?>" method="POST">
     <table>
@@ -97,8 +98,8 @@ catch(PDOException $e)
                     <td><?= $l ?></td>
                 <?php endforeach ?>
 
-                <td><button type="submit" name="delete" value="<?php $waardes['brouwernr'] ?>"><img src="images/icon-delete.png" alt="delete"></button></td>
-                <td><button type="submit" name="edit" value="<?php $waardes['brouwernr'] ?>"><img src="images/icon-edit.png" alt="edit"></button></td>
+                <td><button type="submit" name="delete" value="<?= $info['brouwernr'] ?>"><img src="images/icon-delete.png" alt="delete"></button></td>
+                <td><button type="submit" name="edit" value="<?= $info['brouwernr'] ?>"><img src="images/icon-edit.png" alt="edit"></button></td>
             </tr>
         <?php endforeach ?>
 
