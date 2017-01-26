@@ -40,9 +40,11 @@ public function editarticle(article $article)
 public function updatearticle(Request $request, article $article)
 {
     try{
-        $article->update($request->all());
-        session()->flash('flash_message','successfully updated '.$article->title.'.');
-        return back();
+        if($article->user_ID === Auth::id()) {
+            $article->update($request->all());
+            session()->flash('flash_message', 'successfully updated ' . $article->title . '.');
+            return back();
+        }
     }
     catch (\Exception $e){
         session()->flash('flash_error', 'Something went wrong while updating your article, try again.');
