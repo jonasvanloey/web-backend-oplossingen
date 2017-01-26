@@ -91,9 +91,11 @@ public function deletearticlecancel(article $article)
 public function deletearticleconfirm(article $article)
 {
     try{
-        $article->delete();
-        session()->flash('flash_message','successfully deleted '.$article->title);
-        return redirect('home');
+        if($article->user_ID == Auth::id()) {
+            $article->delete();
+            session()->flash('flash_message', 'successfully deleted ' . $article->title);
+            return redirect('home');
+        }
     }
     catch (\Exception $e){
         session()->flash('flash_error', 'Something went wrong while deleting your article, try again.');

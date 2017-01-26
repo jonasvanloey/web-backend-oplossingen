@@ -47,10 +47,12 @@ class commentscontroler extends Controller
 public function deletecommentconfirm(comment $comment)
     {
         try{
-            $articleid = $comment->article_ID;
-            $comment->delete();
-            session()->flash('flash_message','successfully deleted your comment.');
-            return redirect('comments/'.$articleid);
+            if($comment->user_ID == Auth::id()) {
+                $articleid = $comment->article_ID;
+                $comment->delete();
+                session()->flash('flash_message', 'successfully deleted your comment.');
+                return redirect('comments/' . $articleid);
+            }
         }
         catch (\Exception $e){
             session()->flash('flash_error', 'Something went wrong while deleting your comment, try again.');
